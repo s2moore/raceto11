@@ -4,7 +4,8 @@ permalink: "/contact.html"
 ---
 
 <!--<form action="https://formspree.io/{{site.email}}" method="POST">-->
-<form action="https://formspree.io/f/mgebeaar" method="POST">	
+<form action="https://formspree.io/f/mgebeaar" method="POST">
+<input type="hidden" name="_next" value="//s2moore.github.io/raceto11/thanks.html" />
 <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
