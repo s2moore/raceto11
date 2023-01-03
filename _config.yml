@@ -32,13 +32,13 @@ authors:
       email:          info@raceto11.com
       twitter:        https://twitter.com/raceto11
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    #jane:
+    #  name:           Jane
+    #  site:           https://www.wowthemes.net
+    #  avatar:         /assets/images/avatar2.jpg
+    #  bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    #  email:          fakemail@gmail.com
+    #  twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
