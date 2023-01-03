@@ -4,7 +4,7 @@ title:  "Just a Piece of Wood?"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/4.jpg
-tags: [summer]
+tags: [cue]
 ---
 Oak? Pine? Mahogany? Birch?
 
