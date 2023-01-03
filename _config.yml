@@ -1,6 +1,6 @@
 # Site
 name: 'raceto11'
-description: '8 ball pool blog.'
+description: 'A cuesports blog with a focus on English8 ball pool.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
@@ -21,21 +21,24 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
+    raceto11:
+      name:           raceto11
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      avatar:         /assets/images/8 ball rack - green cloth - Int-Rules Setup.jpg
+      bio:            "raceto11 is passionate about English 8 ball pool and cuesports.  
+                       We aim to provide regular features and stories from the world of 8 ball pool and cuesports
+                       with the view of readers participation.  Be that you play on a pro circuit, a county player, 
+                       a club amateur, a leisure player or an armchair entusiast.  We respect everyone's opinions."
+      email:          info@raceto11.com
+      twitter:        https://twitter.com/raceto11
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+#    jane:
+#      name:           Jane
+#      site:           https://www.wowthemes.net
+#      avatar:         /assets/images/avatar2.jpg
+#      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+#      email:          fakemail@gmail.com
+#      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -45,8 +48,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: raceto11
+      avatar: /assets/images/8 ball rack - green cloth - Int-Rules Setup.jpg
       
   # all pages
   - scope:
