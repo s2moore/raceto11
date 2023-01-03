@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Race to 11!"
-categories: [ Jekyll ]
+#categories: [ Jekyll ]
 image: assets/images/pooltable.jpg
 ---
 Regular blogs 8 ball pool.
