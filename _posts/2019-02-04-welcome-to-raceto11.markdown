@@ -4,7 +4,9 @@ title:  "Welcome to Race to 11!"
 #categories: [ Jekyll ]
 image: assets/images/pooltable.jpg
 ---
-Regular cuesports blog!
+What a clearence this is!
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4pMBh0pe6rw" frameborder="0" allowfullscreen></iframe>
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
