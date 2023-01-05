@@ -10,6 +10,11 @@ ruby RUBY_VERSION
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+# https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/
+gem 'jekyll'
+gem 'webrick'
+
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
