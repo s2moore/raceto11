@@ -5,7 +5,7 @@ title:  "Welcome to Race to 11!"
 image: assets/images/pooltable.jpg
 ---
 What a clearance this is!
-
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/4pMBh0pe6rw" frameborder="0" allowfullscreen></iframe></p>
 England take on Jamaica in a three-match series starting on Wednesday 11 January, and the BBC has live coverage of all the matches.
 
 The series forms part of the Roses' preparations for July's World Cup in South Africa.
