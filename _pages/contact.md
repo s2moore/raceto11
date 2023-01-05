@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 <!-- Google Forms -->
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVORCDanzlgegNFWppr1SxtmMRWI9KoQjYCVuxa2wfFdZOJQ/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdVORCDanzlgegNFWppr1SxtmMRWI9KoQjYCVuxa2wfFdZOJQ/viewform?embedded=true" width="500" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <!--Formspree 
 	<form action="https://formspree.io/{{site.email}}" method="POST">
