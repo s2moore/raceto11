@@ -10,15 +10,21 @@ name: 'raceto11'
 description: 'A cuesports blog with a focus on English 8 ball pool.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
+
 #for use with github.io
-baseurl: '/raceto11'
-url: 'https://s2moore.github.io'
+#baseurl: '/raceto11'
+#url: 'https://s2moore.github.io'
 # for use with own domain
 #url: 'https://your-domain.com'
-#baseurl: ''
+
+# baseurl: '/raceto11'
+url: 'https://raceto11.com'
+#was disqus: 'demowebsite'
 disqus: 'demowebsite'
 email: 'raceto11blog@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+
 
 include: ["_pages"]
 permalink: /:title/
