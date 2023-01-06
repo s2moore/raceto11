@@ -17,7 +17,7 @@ favicon: 'assets/images/favicon.ico'
 # for use with own domain
 #url: 'https://your-domain.com'
 
-baseurl: '/raceto11'
+#baseurl: '/raceto11'
 url: 'https://raceto11.com'
 #was disqus: 'demowebsite'
 disqus: 'www-raceto11-com'
