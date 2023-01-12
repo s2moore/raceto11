@@ -64,7 +64,31 @@ When all said and done, your cue is personal to you.  You can’t tell how a cue
 <h3>Chinese 8 Ball Cues and Break Cues</h3>
 Not mentioned here are Chinese 8 ball cues or break cues.  Posts for another day.  Although this video may be of interest:
 
-<!-- <div style="text-align:center;">
+<style>
+.video-holder {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+.video-holder iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+<div class="video-holder">
+  <iframe width="560"
+          height="315" 
+          src="https://www.youtube.com/embed/F5aWXKuCxsU" 
+          frameborder="0" 
+          allowfullscreen></iframe>
+</div>
+
+<!--<div style="text-align:center;">
     <iframe width="420" height="420" class="video" 
 src="https://www.youtube.com/embed/m1jlkLcmwqM">
 </iframe>
@@ -72,13 +96,10 @@ src="https://www.youtube.com/embed/m1jlkLcmwqM">
 
 <!--<div style="text-align:center;">
 		<iframe width="420" height="315" src="https://www.youtube.com/embed/F5aWXKuCxsU" frameborder="0" allowfullscreen></iframe>
-</div>-->
+</div>
 
 
-{% include video.html url="https://www.youtube.com/embed/F5aWXKuCxsU" width="420" height="315" %}
-
-
-<!--<div class="video-holder">
+<div class="video-holder">
   <iframe width="420"
           height="315" 
           src="https://www.youtube.com/embed/F5aWXKuCxsU" 
