@@ -70,9 +70,11 @@ src="https://www.youtube.com/embed/m1jlkLcmwqM">
 </iframe>
       </div> -->
 
-<div style="text-align:center;">
+<!--<div style="text-align:center;">-->
 		<iframe width="420" height="315" src="https://www.youtube.com/embed/F5aWXKuCxsU" frameborder="0" allowfullscreen></iframe>
-</div><br><br>
+<!--</div>-->
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F5aWXKuCxsU" frameborder="0" allowfullscreen></iframe><br><br>
 
 <h3>Which Attributes Will Improve Your Game?</h3>
 So, what in a cue will improve your game?  A combination of the above maybe? A new make and type of tip?  A carbon-fibre ferrule? Everything can be customised.  There are quality cue makers in the UK and worldwide that can change a ferrule on your current cue for example if that’s what you desire to change.  
