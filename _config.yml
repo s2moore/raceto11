@@ -19,7 +19,6 @@ favicon: 'assets/images/favicon.ico'
 
 #baseurl: '/raceto11'
 url: 'https://raceto11.com'
-#was disqus: 'demowebsite'
 disqus: 'www-raceto11-com'
 email: 'raceto11blog@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
