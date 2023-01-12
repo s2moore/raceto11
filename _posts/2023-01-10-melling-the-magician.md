@@ -5,8 +5,6 @@ title:  "Alakazam!"
 image: assets/images/CM_3CushionPot.jpg
 youtubeId: -uqsP4zyOwI
 ---
-<link rel="stylesheet" type="text/css" href="css/style.css">
-
 Wow!  What a fantastic shot!<br>
   
 No surprise as The Magician confesses to practising that exact same shot for about ten minutes before they started playing on TV.  He confesses to making it too 'quite a few times'.
