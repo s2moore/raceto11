@@ -2,7 +2,7 @@
 layout: post
 title:  "Just a Piece of Wood?!"
 #categories: [ Jekyll ]
-image: assets/images/CueingoverBlackandRedonSnookerTable.jpg
+image: assets/images/japow.jpg
 ---
 
 To the novice, the extent of cue knowledge may well be limited to its weight and size of tip.  To club players and professionals, mention that their cue is ‘just a piece of wood’ and you will get you that look of disdain and contempt.

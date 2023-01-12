@@ -13,7 +13,6 @@ Still, an unbelievable strike of the cue ball.  'Any softer or any harder, I pro
 <p>Is this the best shot ever Chris Melling has pulled out of the hat? What do you think? </p>
 
 <div style="text-align:center;">
-		<iframe width="420" height="315" src="https://www.youtube.com/embed/GjRiAh6GrSU
-" frameborder="0" allowfullscreen></iframe>
+		<iframe width="420" height="315" src="https://www.youtube.com/embed/uqsP4zyOwI" frameborder="0" allowfullscreen></iframe>
 </div><br>
 Image: @ultimatepool_/Twitter
