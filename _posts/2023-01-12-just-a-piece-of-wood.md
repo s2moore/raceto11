@@ -75,7 +75,7 @@ src="https://www.youtube.com/embed/m1jlkLcmwqM">
 </div>-->
 
 
-{% include helpers/video.html url="https://www.youtube.com/embed/F5aWXKuCxsU" width="560" height="315" %}
+{% include video.html url="https://www.youtube.com/embed/F5aWXKuCxsU" width="420" height="315" %}
 
 
 <!--<div class="video-holder">
