@@ -5,6 +5,7 @@ title:  "Alakazam!"
 image: assets/images/CM_3CushionPot.jpg
 youtubeId: -uqsP4zyOwI
 ---
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 Wow!  What a fantastic shot!<br>
   
