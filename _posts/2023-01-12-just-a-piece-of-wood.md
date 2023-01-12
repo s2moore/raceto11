@@ -81,8 +81,8 @@ Not mentioned here are Chinese 8 ball cues or break cues.  Posts for another day
 }
 </style>
 <div class="video-holder">
-  <iframe width="560"
-          height="315" 
+  <iframe width="380"
+          height="300" 
           src="https://www.youtube.com/embed/F5aWXKuCxsU" 
           frameborder="0" 
           allowfullscreen></iframe>
