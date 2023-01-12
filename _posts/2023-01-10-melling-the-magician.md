@@ -3,7 +3,7 @@ layout: post
 title:  "Alakazam!"
 #categories: [ Jekyll ]
 image: assets/images/CM_3CushionPot.jpg
-#youtubeId: -uqsP4zyOwI
+youtubeId: -uqsP4zyOwI
 ---
 
 Wow!  What a fantastic shot!<br>
@@ -19,6 +19,6 @@ Still, an unbelievable strike of the cue ball.  'Any softer or any harder, I pro
 		<iframe width="420" height="315" src="https://www.youtube.com/embed/-uqsP4zyOwI" frameborder="0" allowfullscreen></iframe>
 </div>-->
 
-<!--{% include youtubePlayer.html id=page.youtubeId %}-->
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Image: @ultimatepool_/Twitter
