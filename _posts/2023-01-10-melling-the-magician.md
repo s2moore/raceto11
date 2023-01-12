@@ -38,10 +38,4 @@ Still, an unbelievable strike of the cue ball.  'Any softer or any harder, I pro
 
 Image: @ultimatepool_/Twitter
 
-<!--<iframe width="380" height="300" src="https://www.youtube.com/embed/-uqsP4zyOwI" frameborder="0" allowfullscreen></iframe><br>-->
-
-<!--<div style="text-align:center;">
-		<iframe width="420" height="315" src="https://www.youtube.com/embed/-uqsP4zyOwI" frameborder="0" allowfullscreen></iframe>
-</div>-->
-
-<!--{% include youtubePlayer.html id=page.youtubeId %}-->
+<!-- {% include youtubePlayer.html id=page.youtubeId %} -->
