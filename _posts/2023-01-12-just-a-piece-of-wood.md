@@ -53,7 +53,7 @@ Tip type is perhaps one of the biggest changes that can be made to a cue that wi
 So many tip brands and types to select from.  A bang average pool hall will cues with flat tips, tips hanging off, over hanging and shiny.  A quality pool hall will have house cues with far better maintained tips.  The leisure player selects a house cue after rolling the cue on the table in a bid to see if it is straight and after inspection of the tip. For the club player, top amateur and professional, tip size and type are absolutely high up on the list for feel and playability.  Laminated tips, single layer pressed leather tips and pressed fibre to name a few.  Coming in soft, medium-soft, medium-hard and hard the choice is overwhelming.  Different brands play different too.  Which suits your you?  All providing a unique feel, playability and different feedback from shots.
 
 <h3>Ferrule</h3>
-American pool cues ferrules use to be ivory.  Amongst the alternatives used are linen based melamine,  phenolic ferrules or Micarta. 
+American pool cues ferrules use to be ivory.  Amongst the alternatives used are linen based melamine, phenolic ferrules or Micarta. 
 Snooker and English pool cues in the past have and still do come with brass ferrules.  Due to recent research, carbon fibre ferrules and titanium ferrules have exploded into the market and onto the cue sports scene.  So much so that more and more professionals in snooker and English 8 ball are using them. But why?  In a nutshell, carbon fibre and titanium reduce cue ball deflection.  John Higgins has made a maximum using a titanium ferrule.  They do take some adapting too, especially for the more seasoned player, but players say that the main benefit is that the player can aim closer to the point of contact of the object ball compensating less than you would using a brass ferrule.
 During a discussion on Eurosport, Jimmy White explained: “With the titanium ferrule, the side doesn't affect the cue ball until it hits the object ball.
 
@@ -113,7 +113,7 @@ src="https://www.youtube.com/embed/m1jlkLcmwqM">
 <h3>Which Attributes Will Improve Your Game?</h3>
 So, what in a cue will improve your game?  A combination of the above maybe? A new make and type of tip?  A carbon-fibre ferrule? Everything can be customised.  There are quality cue makers in the UK and worldwide that can change a ferrule on your current cue for example if that’s what you desire to change.  
 Ultimately, it’s all about the feel, playability and confidence that comes from having the right tools for the job for you.  Your perfect cue.  An off the shelf cue may be your wand!  A new tip and you could have your perfect cue?
-Don’t reject a cue on it’s looks.  Try it. Try different attributes. It could lead to you finding your perfect cue. 
+Don’t reject a cue on its looks.  Try it. Try different attributes. It could lead to you finding your perfect cue. 
 
 <h3>What Is Your Perfect Cue?</h3>
 Let us know about your cue:  What’s your tip size, make and type? cue weight?  cue length? Do you have a 1-piece cue, three quarter jointed, centre jointed cue?  What’s your ferrule type?  
