@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ultimate Pool:  The 6 Red Shootout"
-date:   2023-01-15 13:17:22 +0000
+#date:   2023-01-15 13:17:22 +0000
 #categories: jekyll update
 youtubeId: htnVXSm7zq0
 ---
