@@ -33,24 +33,6 @@
 
     {% include tracking-header.html %}
 
-    <!-- Dark mode code -->
-    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/dark-mode.css" id="dark-mode-css">
-    <script>
-        function toggleDarkMode() {
-            var currentMode = localStorage.getItem('dark-mode');
-        if (currentMode === 'true') {
-            localStorage.setItem('dark-mode', 'false');
-
-        document.getElementById('dark-mode.css').disabled = true;
-        } else {
-            localStorage.setItem('dark-mode', 'true');
-
-        document.getElementById('dark-mode-css').disabled = false;
-            }
-        }
-    </script>
-
-
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
