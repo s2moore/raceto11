@@ -23,6 +23,8 @@ disqus: 'www-raceto11-com'
 email: 'raceto11blog@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+dark_mode: false
+
 include: ["_pages"]
 permalink: /:title/
 
