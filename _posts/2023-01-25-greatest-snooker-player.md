@@ -2,9 +2,6 @@
 layout: post
 title:  "The Greatest Snooker Player of All Time"
 image: assets/images/worldsnookertrophy.jpg
-date:   2023-01-15 13:17:22 +0000
-#categories: jekyll update
-#youtubeId: htnVXSm7zq0
 ---
 The Greatest snooker player of all time.
 
