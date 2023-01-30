@@ -2,7 +2,7 @@
 layout: post
 title:  "Snooker Shoot Out"
 image: assets/images/chriswakelin.jpg
-categories: [ snooker, shootout ]
+#categories: [ snooker, shootout ]
 ---
 It's fair to say that this is a unique format that provides both players, fans and spectators with an experience akin to that of a darts match.
 
