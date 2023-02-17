@@ -4,8 +4,6 @@ title:  "How Do You Practise?"
 image: assets/images/practise.jpg
 youtubeId: zvuwJepyj2o
 ---
-How do you practise?
-
 Having spent a few hours down the local pool hall last night watching county players practise, it got me wondering.  How do players practise?  
 
 The tough table challenge set by Stephen Hendry is a great way to practise full table positional play with a mix of challenging shots and pots with a few simpler pots and shots where cannons come into the equation as well. 
