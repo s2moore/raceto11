@@ -13,7 +13,7 @@ The tough table challenge set by Stephen Hendry is a great way to practise full 
 {% include youtubePlayer.html id=page.youtubeId %}
 <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhuiTJJFYLYw_NKe644MFKj3NArdD6Xxaw-MuF6Jez-3EZuw/viewform?usp=sf_link embedded=true" width="640" height="864" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
-<p></p>This is a nice drill as demonstrated by Jayson Shaw.
+<p></p>This is an extremely challenging drill as demonstrated by Jayson Shaw.
 <a href="https://www.facebook.com/100044143374033/posts/pfbid0rz5seyhBPoX5xzUrFwxaKyoQ574wU3aZbHsMUTrxrXhX2quPoM7hMpqPRegKMLf5l/?app=fbl">The 'infamous' Darren "Dynamite" Appleton drill.</a>
 
 
