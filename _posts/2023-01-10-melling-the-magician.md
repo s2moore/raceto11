@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Alakazam!"
-#categories: [ Jekyll ]
+categories: [ melling ]
+tags: [magician]
 image: assets/images/CM_3CushionPot.jpg
 youtubeId: -uqsP4zyOwI
 ---
