@@ -11,6 +11,6 @@ youtubeId:
 Entry fee: £0.99
 <p></p>
 <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-<a href="https://logwork.com/countdown-z62m" class="countdown-timer" data-timezone="Europe/London" data-date="2023-06-15 13:08" data-digitscolor="#f2e6e6"></a>
+<a href="https://logwork.com/countdown-z62m" class="countdown-timer" data-timezone="Europe/London" data-date="2023-06-15 13:08" data-digitscolor="#f2e6e6">Entry Time Remaining...</a>
 <p></p>
 The draw takes place on ______, at __pm, live on YouTube.
