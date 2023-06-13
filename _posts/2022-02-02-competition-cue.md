@@ -2,7 +2,7 @@
 layout: post
 title:  "Competition  Time!"
 categories: [ competition cue case ]
-tags: [women]
+tags: [competition pool cue case]
 image: assets/images/wws.png
 youtubeId: 
 ---
