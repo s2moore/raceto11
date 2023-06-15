@@ -1,5 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--<html lang="en">-->
+<!--Snipcart E-commerce Here and in tracking-header.html in _includes   {% include head.html %}
+{% include header.html %}
+-->
+
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+<body>
+    {% include tracking-header.html %}
+    <main class="main">
+        <div class="products">
+            {{ content }}
+        </div>
+    </main>
+</body>
+<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css" />
+<script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"></script>
+<div id="snipcart" data-api-key="MmFjNDQ5ZTItMmI2OS00YzRhLTgwMjEtZDczNmVmNDYyMDgzNjM4MjI0MjEzNDM3NTI2Njcz
+" hidden></div>
+
+</html>
 
 <head>
     <meta charset="utf-8">
@@ -34,29 +54,6 @@
     {% include tracking-header.html %}
 
 </head>
-
-<!--Snipcart E-commerce Here and in tracking-header.html in _includes   {% include head.html %}
-{% include header.html %}
--->
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
-{% include tracking-header.html %}
-
-<body>
-    {% include tracking-header.html %}
-    <main class="main">
-        <div class="products">
-            {{ content }}
-        </div>
-    </main>
-    {% include footer.html %}
-</body>
-<div hidden id="snipcart" data-api-key="<MmFjNDQ5ZTItMmI2OS00YzRhLTgwMjEtZDczNmVmNDYyMDgzNjM4MjI0MjEzNDM3NTI2Njcz>">
-</div>
-<script src="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js" defer></script>
-
-</html>
-
 
 <body class="{% if page.url == " /" %} homefirstpage {% endif %}">
 
