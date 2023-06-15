@@ -35,13 +35,15 @@
 
 </head>
 
-<!--Snipcart E-commerce Here and in tracking-header.html in _includes-->
+<!--Snipcart E-commerce Here and in tracking-header.html in _includes   {% include head.html %}
+{% include header.html %}
+-->
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en" }}">
-{% include head.html %}
+{% include tracking-header.html %}
 
 <body>
-    {% include header.html %}
+    {% include tracking-header.html %}
     <main class="main">
         <div class="products">
             {{ content }}
