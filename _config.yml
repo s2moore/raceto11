@@ -32,6 +32,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+
+  collections:
+ - products
   
 authors:
     sal:
