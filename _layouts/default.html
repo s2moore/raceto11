@@ -6,6 +6,25 @@
 
 <html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
+
+
+
+
+
+<body>
+    {% include tracking-header.html %}
+    <main class="main">
+        <div class="products">
+            {{ content }}
+        </div>
+    </main>
+</body>
+<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css" />
+<script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"></script>
+<div id="snipcart" data-api-key="MmFjNDQ5ZTItMmI2OS00YzRhLTgwMjEtZDczNmVmNDYyMDgzNjM4MjI0MjEzNDM3NTI2Njcz" hidden></div>
+
+
+<!--
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
@@ -25,6 +44,7 @@
 <div hidden id="snipcart" data-api-key="MmFjNDQ5ZTItMmI2OS00YzRhLTgwMjEtZDczNmVmNDYyMDgzNjM4MjI0MjEzNDM3NTI2Njcz
 "></div>
 <script src="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js" defer></script>
+-->
 
 </html>
 
