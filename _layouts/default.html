@@ -4,24 +4,22 @@
 {% include header.html %}
 -->
 
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include menu-header.html %}
 <body>
-    {% include tracking-header.html %}
-    <main class="main">
-        <div class="products">
-            {{ content }}
-        </div>
-    </main>
+ {% include tracking-header.html %}
+ <main class="main">
+ <div class="products">
+ {{ content }}
+ </div>
+ </main>
+ {% include tracking-footer.html %}
 </body>
-<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css" />
-<script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"></script>
-<div id="snipcart" data-api-key="MmFjNDQ5ZTItMmI2OS00YzRhLTgwMjEtZDczNmVmNDYyMDgzNjM4MjI0MjEzNDM3NTI2Njcz" hidden></div>
+<div hidden id="snipcart" data-api-key="YTcwZDYxMjAtNDBiMC00NjQzLTg0NDQtYjMwMDVkY2Q1MDUzNjM4MjI0MjEzNDM3NTI2Njcz"></div>
+<script src="https://cdn.snipcart.com/themes/v3.0.0-beta.3/default/snipcart.js" defer></script>
+<!--<script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js"></script>-->
+
 
 
 <!--
